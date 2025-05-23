@@ -19,12 +19,12 @@
 
 ## Marchine Learning 
 
-- [ ] Data
-- [ ] training
-- [ ] algo
+- [ ]  Data
+- [ ]  training
+- [ ]  algo
 - [ ]  fonction de cout
 - [ ]  validation
-- [ ]   inférence
+- [ ]  inférence
 - [ ]  surajustement
 - [ ]  sousajustemen
 - [ ]  ensemble learning
