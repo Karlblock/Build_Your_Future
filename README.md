@@ -80,6 +80,29 @@ git push origin ajout-nouveau-module
 # Faire une Pull Request sur GitHub
 ```
 
+## 📎 Ressources utiles
+
+- 🎓 [CS50 Harvard (en français)](https://cs50.harvard.edu/x/2024/)
+- 📄 [Livre blanc du Bitcoin](https://bitcoin.org/bitcoin.pdf)
+- 🧪 [Hack The Box](https://www.hackthebox.com/) — Entraînement en cybersécurité
+- 💡 [TryHackMe](https://tryhackme.com/)
+- 📚 [OpenClassrooms](https://openclassrooms.com/fr/)
+- 🛠️ [Root-Me](https://www.root-me.org/) — Plateforme francophone CTF
+
+
+## 🪪 Licence
+
+Ce projet est sous licence **MIT**.  
+Tu peux librement l'utiliser, le modifier et le redistribuer.  
+Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
+
+## ✍️ Auteur
+
+Créé et maintenu par **Karlblock**
+
+> “Construire son avenir, c’est maîtriser les outils du présent.”
+
+
 Vous pouvez me retrouver sur :  [Discord](https://discord.gg/VGhMvUmBhm)
 
 
