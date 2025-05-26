@@ -101,13 +101,11 @@ Des bases algorthymiques et en anglais sont un plus :
 - [HTB Academy](https://academy.hackthebox.com/)
 - [leepCode](https://leetcode.com/)
 
-- & more more more !
 
 Vous pouvez me retrouver sur :
 
 [Discord](https://discord.gg/VGhMvUmBhm)
 
-[Telegram](https://t.me/blockchainspotOfficial)
 
 > [!TIP]
 
