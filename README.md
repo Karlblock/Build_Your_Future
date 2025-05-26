@@ -109,7 +109,7 @@ Vous pouvez me retrouver sur :
 
 [Telegram](https://t.me/blockchainspotOfficial)
 
-## Tips Sport ##
+> [!TIP]
 
 ☕ [Buy me a Coffee if you like my work](https://www.buymeacoffee.com/karlblock)
 
@@ -118,14 +118,11 @@ Vous pouvez me retrouver sur :
 ---
      #blockchain #github #rust #formation #C #crypto #dev #futur
 
-> [!TIP]
->
 
 > [!IMPORTANT]
->
+
 
 > [!WARNING]
->
+
 
 > [!CAUTION]
->
