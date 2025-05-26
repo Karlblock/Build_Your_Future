@@ -5,9 +5,9 @@
 [![GitHub license](https://img.shields.io/github/license/Karlblock/Build_Your_Future?style=flat-square)](LICENSE)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)](#)
 [![Maintained by Karlblock](https://img.shields.io/badge/Maintained%20by-Karlblock-blue?style=flat-square)](https://github.com/Karlblock)
-[![Hack The Box](https://www.hackthebox.com/badge/image/12345)](https://app.hackthebox.com/profile/12345)
 
-[![HTB](https://img.shields.io/badge/HackTheBox-User-black?logo=HackTheBox&logoColor=green&style=flat-square)](https://app.hackthebox.com/profile/12345)
+
+[![HTB](https://img.shields.io/badge/HackTheBox-User-black?logo=HackTheBox&logoColor=green&style=flat-square)](https://app.hackthebox.com/profile/Karlblock)
 
 
 
