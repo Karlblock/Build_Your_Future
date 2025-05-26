@@ -69,7 +69,7 @@ Des bases algorthymiques et en anglais sont un plus :
 
  *Devops c'est délivrer avec méthode et éfficacité*
 
-### Apprendre Rust
+### Apprendre le Rust
 
 - [Langage Rust](https://github.com/BlockchainSpot/Formation-Blockchain/tree/main/6%20-%20Langage%20Rust)
 
