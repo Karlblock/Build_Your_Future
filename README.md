@@ -65,7 +65,7 @@ cd Build_Your_Future
 Tu veux contribuer ? Tu es le/la bienvenu·e ! 🙌
 
 Voici comment participer :
-
+```bash
 # Fork du projet
 git clone https://github.com/ton-utilisateur/Build_Your_Future.git
 cd Build_Your_Future
@@ -78,7 +78,7 @@ git commit -m "Ajout d'un nouveau module"
 git push origin ajout-nouveau-module
 
 # Faire une Pull Request sur GitHub
-
+```
 
 Vous pouvez me retrouver sur :  [Discord](https://discord.gg/VGhMvUmBhm)
 
