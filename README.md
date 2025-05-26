@@ -1,5 +1,13 @@
 # 🚀 Build_Your_Future — IT de Demain
 
+[![GitHub stars](https://img.shields.io/github/stars/Karlblock/Build_Your_Future?style=social)](https://github.com/Karlblock/Build_Your_Future/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Karlblock/Build_Your_Future?style=social)](https://github.com/Karlblock/Build_Your_Future/network)
+[![GitHub license](https://img.shields.io/github/license/Karlblock/Build_Your_Future?style=flat-square)](LICENSE)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)](#)
+[![Maintained by Karlblock](https://img.shields.io/badge/Maintained%20by-Karlblock-blue?style=flat-square)](https://github.com/Karlblock)
+
+---
+
 Bienvenue dans le dépôt **Build_Your_Future**, un projet éducatif open source à destination des passionnés de technologies qui souhaitent se former aux métiers d’avenir dans l’IT, en particulier autour de la **blockchain**, de la **cybersécurité** et de **l'intelligence artificielle**.
 
 Ce projet s'inscrit dans une démarche de **formation continue** et de **partage communautaire**. Il regroupe des ressources, des parcours pédagogiques, des exercices pratiques et des liens vers des plateformes spécialisées pour apprendre efficacement et durablement.
