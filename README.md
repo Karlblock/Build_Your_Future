@@ -1,11 +1,10 @@
-# 👨‍💻👩‍💻 Road To be IT Engineer👨‍💻👩‍💻
+# 👨‍💻👩‍💻 Road To Futur 👨‍💻👩‍💻
 
-# [Bitcoin](https://bitcoin.org/bitcoin.pdf) : A Peer-to-Peer Electronic Cash System
-
-## Par où commencer
+## Soyez honnete avec vous et engagez vous !
 
 Si vous voulez m'apporter votre soutien, vous pouvez vous inscrire sur [Hackthebox](https://referral.hackthebox.com/mz8x97E) en cliquant sur le lien.
 
+### [Bitcoin](https://bitcoin.org/bitcoin.pdf) : A Peer-to-Peer Electronic Cash System
 Je pense que l'aventure commence avec la lecture du [WhitePaper](https://bitcoin.org/bitcoin.pdf) de Bitcoin ! *C'est cool, j'ai déjà compris 30%  de bitcoin !*
 
 Quelles sont les étapes pour être en mesure de comprendre et pourquoi pas apporter nos idées qui sait jusqu'à ou nous seront dans la compréhension  le code de Bitcoin ? ``Let's go team ?``
