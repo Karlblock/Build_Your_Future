@@ -1,8 +1,8 @@
 #!/bin/bash
 
 IP="10.129.202.137"
-PASSWORD='@HTB_@cademy_stdnt!'
-USERNAMES=("Bob" "bob" "FrontDesk01\\Bob" "Bob@FrontDesk01" ".\\Bob")
+PASSWORD=''
+USERNAMES=("")
 
 for USER in "${USERNAMES[@]}"; do
   echo "[*] Testing: $USER"
