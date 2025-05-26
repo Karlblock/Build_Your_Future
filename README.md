@@ -102,9 +102,7 @@ Des bases algorthymiques et en anglais sont un plus :
 - [leepCode](https://leetcode.com/)
 
 
-Vous pouvez me retrouver sur :
-
-[Discord](https://discord.gg/VGhMvUmBhm)
+Vous pouvez me retrouver sur :  [Discord](https://discord.gg/VGhMvUmBhm)
 
 
 > [!TIP]
