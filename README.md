@@ -10,10 +10,6 @@ Je pense que l'aventure commence avec la lecture du [WhitePaper](https://bitcoin
 
 Quelles sont les étapes pour être en mesure de comprendre et pourquoi pas apporter nos idées qui sait jusqu'à ou nous seront dans la compréhension  le code de Bitcoin ? ``Let's go team ?``
 
-[ ]langage
-[ ]Cryptographie
-[ ]network
-[ ]
 
 `Tips : A lire avant et tout au long de la formation !` -> [WhitePaper de Bitcoin](https://bitcoin.org/bitcoin.pdf)
 
