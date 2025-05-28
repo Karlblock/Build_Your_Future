@@ -124,13 +124,6 @@ Vous pouvez me retrouver sur :  [Discord](https://discord.gg/VGhMvUmBhm)
      Cosmos Wallet : 🐈‍⬛🐈‍⬛ cosmos1fa73g7khc6ahzc4nhw2n2h70j0s0pjjx8z39f6 🐈‍⬛🐈‍⬛
 
 ---
-     #blockchain #github #rust #formation #C #crypto #dev #futur
+     #blockchain #github #rust #formation #C #crypto #dev #futur #IA
 
 
-> [!IMPORTANT]
-
-
-> [!WARNING]
-
-
-> [!CAUTION]
