@@ -1,7 +1,6 @@
 
 # Analyse des Composantes Principales (ACP)
 
-![PCA Projection](pca_projection.png)
 
 ## Définition
 
