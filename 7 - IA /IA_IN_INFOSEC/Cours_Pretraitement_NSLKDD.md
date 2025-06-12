@@ -107,5 +107,5 @@ multi_train_X, multi_val_X, multi_train_y, multi_val_y = train_test_split(...)
 ---
 
 ## ✍️ Auteur
-Formation HTB Academy – Adapté pour `Cyber Normandie`
+Formation HTB Academy – Adapté pour `IT_Formation`
 
