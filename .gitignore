@@ -1,9 +1,57 @@
-
-*\artifacts
-node_modules
-**/.vscode/
+# Environnements virtuels
+venv/
 .env
-*.c
-makefile
-.deps
-target/
+.env.*
+
+# Fichiers Python inutiles
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Fichiers de log / sortie
+*.log
+
+*.out
+*.bak
+
+# Fichiers de base de données
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl
+
+# Données binaires volumineuses
+*.bin
+*.h5
+*.pt
+*.model
+*.pkl
+*.ckpt
+
+# Caches
+.cache/
+*.cache
+*.token
+*.npz
+*.npy
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers temporaires
+*.swp
+*.tmp
+*~
+
+# Résultats IA ou fichiers de test
+ai_raw_output.txt
+watchlist_buzz.json
+buzz_log.csv
+
+# Git LFS tracking (si activé)
+.gitattributes
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.code-workspace
